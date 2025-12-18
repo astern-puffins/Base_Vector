@@ -115,7 +115,9 @@ SOFTWARE.
 ## Author
 
 GitHub: https://github.com/astern-puffins
+
 Email: astern-puffins.0q@icloud.com
+
 Public contact: https://x.com/conleygwendoly
 
 ---
